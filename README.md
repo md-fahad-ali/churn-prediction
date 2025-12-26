@@ -86,3 +86,4 @@ dmproject/
 
 ## 📊 Data Source
 The model is trained on the [Telco Customer Churn dataset](https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv), covering customer demographics, account information, and service usage.
+# churn-prediction
